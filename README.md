@@ -66,7 +66,7 @@
 
 AgentCat provides analytics and observability for Claude connectors and ChatGPT applications. It offers session tracing, intent detection, and issue identification for AI agents, helping developers debug, monitor, and improve agent performance. Trusted by fast‑growing AI companies, AgentCat aims to enhance the agent experience through detailed session replay, tool‑call insights, and comprehensive dashboards.
 
-**Areas:** AI · Analytics · Observability · AgentExperience · Company
+**Areas:** Artificial Intelligence · Analytics · Observability · Agent Experience · Company
 
 ## AgentCat on APIs.io
 
@@ -91,13 +91,13 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentcat Com Domain Security](https://apis.io/security/agentcat-com/agentcat-com-domain-security/)
+- [AgentCat Domain Security](https://apis.io/security/agentcat-com/agentcat-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentcat Com Plans Pricing](https://apis.io/plans/agentcat-com/agentcat-com-plans-pricing/)
+- [AgentCat Plans Pricing](https://apis.io/plans/agentcat-com/agentcat-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -106,6 +106,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://agentcat.com/)
 - [Documentation](https://docs.agentcat.com/)
 - [Getting started](https://docs.agentcat.com/quickstart)
+- [API reference](https://docs.agentcat.com/languages/go/reference)
 - [Pricing](https://agentcat.com/pricing/)
 - [Blog](https://agentcat.com/blog/)
 - [Trust centre](https://trust.agentcat.com/)
@@ -116,18 +117,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 48.3** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 39.7** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 35.5 |
-| Contract governance | 79.1 |
-| Operational transparency | 21.1 |
-| Developer ergonomics | 30.2 |
-| Access clarity | 67.9 |
+| Discoverability | 64.3 |
+| Contract quality | 10.7 |
+| Contract governance | 35.6 |
+| Operational transparency | 19.0 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 76.6 |
 
-**Agent readiness 38.0** — agent-ready
+**Agent readiness 35.5** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -142,18 +143,22 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
 | Delegated Identity | — |
-| Protected Resource Metadata | verified |
-| Dynamic Client Registration | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentcat-com/](https://apis.io/providers/agentcat-com/).
 
